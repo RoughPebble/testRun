@@ -4,7 +4,7 @@ class Grand extends Component {
   constructor(){
     super()
     this.state = {
-      text: 'Sup Wilmington'
+      text: 'Sup North Carolina'
     }
   }
   render(){
